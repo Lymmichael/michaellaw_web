@@ -44,7 +44,7 @@ export default function Header(props){
                     <li>
                         <a 
                         className={resume} 
-                        href="/Resume"  
+                        href="/michaellaw_web/Resume"  
                         style={{ "--navAni": 1 }}
                         >
                         Resume
