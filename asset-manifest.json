@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/michaellaw_web/static/css/main.3eaf070c.css",
+    "main.js": "/michaellaw_web/static/js/main.a8881ae1.js",
+    "static/js/787.964fe0fd.chunk.js": "/michaellaw_web/static/js/787.964fe0fd.chunk.js",
+    "static/media/影像5-1-2024 下午11.06.jpg": "/michaellaw_web/static/media/影像5-1-2024 下午11.06.ce16ee5ddb646205d0a2.jpg",
+    "static/media/影像27-12-2023 下午6.11 2.jpg": "/michaellaw_web/static/media/影像27-12-2023 下午6.11 2.3af00aae0001076bae8f.jpg",
+    "static/media/影像5-1-2024 下午11.30.jpg": "/michaellaw_web/static/media/影像5-1-2024 下午11.30.6df9179dc44c601adabf.jpg",
+    "static/media/影像27-12-2023 下午5.53.jpg": "/michaellaw_web/static/media/影像27-12-2023 下午5.53.5db3158dfa7261ce74c9.jpg",
+    "static/media/影像27-12-2023 下午6.18.jpg": "/michaellaw_web/static/media/影像27-12-2023 下午6.18.a28655b52a24a2bad5e3.jpg",
+    "static/media/影像27-12-2023 下午6.51.jpg": "/michaellaw_web/static/media/影像27-12-2023 下午6.51.b57d9d73fcb2ada35083.jpg",
+    "static/media/FE3F1B38-65CF-43D0-B3BF-C3F44A065521_1_105_c.jpeg": "/michaellaw_web/static/media/FE3F1B38-65CF-43D0-B3BF-C3F44A065521_1_105_c.c1edec446035eff33bbd.jpeg",
+    "static/media/影像27-12-2023 下午6.29.jpg": "/michaellaw_web/static/media/影像27-12-2023 下午6.29.960883417237d9dfbd31.jpg",
+    "index.html": "/michaellaw_web/index.html",
+    "main.3eaf070c.css.map": "/michaellaw_web/static/css/main.3eaf070c.css.map",
+    "main.a8881ae1.js.map": "/michaellaw_web/static/js/main.a8881ae1.js.map",
+    "787.964fe0fd.chunk.js.map": "/michaellaw_web/static/js/787.964fe0fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eaf070c.css",
+    "static/js/main.a8881ae1.js"
+  ]
+}
