@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/michaellaw_web/static/css/main.3eaf070c.css",
-    "main.js": "/michaellaw_web/static/js/main.2494acaf.js",
+    "main.js": "/michaellaw_web/static/js/main.e29ea730.js",
     "static/js/787.964fe0fd.chunk.js": "/michaellaw_web/static/js/787.964fe0fd.chunk.js",
     "static/media/影像5-1-2024 下午11.06.jpg": "/michaellaw_web/static/media/影像5-1-2024 下午11.06.ce16ee5ddb646205d0a2.jpg",
     "static/media/影像27-12-2023 下午6.11 2.jpg": "/michaellaw_web/static/media/影像27-12-2023 下午6.11 2.3af00aae0001076bae8f.jpg",
@@ -13,11 +13,11 @@
     "static/media/影像27-12-2023 下午6.29.jpg": "/michaellaw_web/static/media/影像27-12-2023 下午6.29.960883417237d9dfbd31.jpg",
     "index.html": "/michaellaw_web/index.html",
     "main.3eaf070c.css.map": "/michaellaw_web/static/css/main.3eaf070c.css.map",
-    "main.2494acaf.js.map": "/michaellaw_web/static/js/main.2494acaf.js.map",
+    "main.e29ea730.js.map": "/michaellaw_web/static/js/main.e29ea730.js.map",
     "787.964fe0fd.chunk.js.map": "/michaellaw_web/static/js/787.964fe0fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3eaf070c.css",
-    "static/js/main.2494acaf.js"
+    "static/js/main.e29ea730.js"
   ]
 }
