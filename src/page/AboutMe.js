@@ -8,20 +8,15 @@ export default function AboutMe(){
         
             <h4>Greetings, tech enthusiasts and curious minds,</h4>
             <br />
-            <h4>Step into the evocative world of software engineering as I introduce myself as Michael, the maverick software engineer intern igniting digital landscapes. Brace yourselves for a truly electrifying journey!</h4>
-            <br />
-            <h4>Through my captivating adventures at CUHK, pursuing my studies in computer science, I have unearthed the secrets of programming languages and frameworks that dance harmoniously within the realm of technology. With deep-rooted expertise in [mention relevant technologies], I embody the fusion of creativity and technical prowess required to orchestrate miracles within the digital realm.</h4>
-            <br />
-            <h4>Harnessing my exceptional development skills during exhilarating internships and transformative personal projects, I have unlocked portals that connect awe-inspiring ideas to compelling software masterpieces. From conceptual inception to mesmerizing conclusion, I weave intricate paths that map fragments of imagination to unfathomable deliverables.</h4>
-            <br />
-            <h4>No challenger thwart my pursuit — the collaborative fray thrives beneath my fingertips as I intricately blend skills, spirits, and cutting-edge technology. Empathy, service, and purpose meld within my creations, illuminating each team endeavor with a symphony of innovation.</h4>
-            <br />
-            <h4>Yet, my passion for exponential growth remains untamed. A relentless seeker of digital wisdom, I am attuned to the ancient languages of problem-solving and hold restless curiosity in the face of technological evolution. Today's leaps, tomorrow's frontiers — from AI to blockchain, I stand deliriously excited to envelop myself in the quest for boundless knowledge.</h4>
-            <br />
-            <h4>Dear guardians of innovation-spurred endeavors, I implore you to imagine boundless possibilities together. Witness firsthand my proficiency in building mesmerizing software marvels, while my unparalleled passion for efficient engineering casts mighty waves upon your sail.</h4>
-            <br />
-            <h4>Ladies and gentlemen, as we embark on this extraordinary journey, remember the words etched in fleeting bits of digital symphony: "The most elusive creations lie at the crossroads of genius minds and the unyielding pursuit of unbounded imagination."</h4>
-            <br />
+            <h4>
+            Hello, I'm Law Yat Ming, a Year 3 Computer Science student at The Chinese University of Hong Kong. From an early age, I've been captivated by the power of technology and its ability to transform the way we live and work. As I delved deeper into the world of programming and software development, I discovered the endless possibilities it offers to create innovative solutions that can make a meaningful impact.
+            <br /><br />
+My journey in computer science has been a thrilling adventure, filled with challenges that have honed my problem-solving skills and ignited my creativity. I am drawn to the dynamic nature of software development, where every line of code represents an opportunity to bring ideas to life and shape the future.
+<br /><br />
+As I look ahead, my goal is to become a software developer who not only writes code but also crafts elegant and efficient solutions that enhance the way we interact with technology. I am driven by the desire to contribute to cutting-edge projects, collaborate with diverse teams, and continuously expand my knowledge to stay at the forefront of technological advancements.
+            <br /><br />
+I am excited about the endless possibilities that lie ahead and am eager to embark on this journey to make a meaningful impact through software development.
+</h4>
             <h4>Sincerely,</h4>
             <h4>Law Yat Ming – The Maestro of Code</h4>
         </table>
