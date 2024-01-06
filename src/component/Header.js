@@ -34,7 +34,7 @@ export default function Header(props){
                     <li>
                         <a 
                         className={"logo"}
-                        href="/michaellaw_web"
+                        href="/"
                         >
                             Michael
                             </a>
@@ -44,7 +44,7 @@ export default function Header(props){
                     <li>
                         <a 
                         className={resume} 
-                        href="/michaellaw_web/Resume"  
+                        href="/#/Resume"  
                         style={{ "--navAni": 1 }}
                         >
                         Resume
@@ -52,7 +52,7 @@ export default function Header(props){
                     </li>
                     <li>
                         <a className={aboutMe} 
-                        href="/michaellaw_web/AboutMe"
+                        href="/#/AboutMe"
                         style={{"--navAni":2}}
                         >
                             AboutMe
@@ -60,7 +60,7 @@ export default function Header(props){
                     </li>
                     <li>
                         <a className={project}
-                        href="/michaellaw_web/Project"
+                        href="/#/Project"
                         style={{"--navAni":4}}
                         >
                             Project
@@ -69,7 +69,7 @@ export default function Header(props){
                     </li>
                     <li>
                         <a className={contact} 
-                        href="/michaellaw_web/Contact"
+                        href="/#/Contact"
                         style={{"--navAni":3}}
                         >
                             Contact
