@@ -16,7 +16,7 @@ My journey in computer science has been a thrilling adventure, filled with chall
 As I look ahead, my goal is to become a software developer who not only writes code but also crafts elegant and efficient solutions that enhance the way we interact with technology. I am driven by the desire to contribute to cutting-edge projects, collaborate with diverse teams, and continuously expand my knowledge to stay at the forefront of technological advancements.
             <br /><br />
 I am excited about the endless possibilities that lie ahead and am eager to embark on this journey to make a meaningful impact through software development.
-</h4>
+</h4><br /> 
             <h4>Sincerely,</h4>
             <h4>Law Yat Ming – The Maestro of Code</h4>
         </table>
