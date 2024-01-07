@@ -3,7 +3,7 @@ export default function AboutMe(){
     
     return <>
     <Header props="aboutMe"/>
-    <div>
+    <div style={{ fontSize: '20px' }}>
         <table style={{ color: "#696969", width: "50%", margin: "auto", textAlign: "center" }}>
         
             <h4>Greetings, tech enthusiasts and curious minds,</h4>
@@ -18,7 +18,7 @@ As I look ahead, my goal is to become a software developer who not only writes c
 I am excited about the endless possibilities that lie ahead and am eager to embark on this journey to make a meaningful impact through software development.
 </h4><br /> 
             <h4>Sincerely,</h4>
-            <h4>Law Yat Ming – The Maestro of Code</h4>
+            <h4>Law Yat Ming</h4>
         </table>
         
         <br />

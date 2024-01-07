@@ -40,82 +40,86 @@ export default function ResumePage(){
     return <> 
     <Header props="resume" />
     <div style={{...containerStyle,color:"#696969"}}>
-        <p style={{...middleFont,fontSize:"1.5rem",color:"#ffffff"}} className="font-size:1.5rem">Michael's Resume </p>
-        <br />
-        <h3 style={middleFont}>EDUCATION</h3>
-       
-        <table style={tableStyle}>
-            <tbody>
-                <tr>
-                    <td style={leftFont}>B.Sc of Computer Science</td>
-                    <td style={rightFont}>2021-present</td>
-                </tr>
-                <tr style={leftFont}>CUHK</tr>
-                <tr>
-                    <td style={leftFont}>Cheung Sha Wan Catholic Secondary School</td>
-                    <td style={rightFont}>2014-2020</td>
-                </tr>
-            </tbody>
-        </table>
-        <br />
-        <h3 style={middleFont}>Working Experience</h3>
-        <table style={tableStyle}>
-            <tbody>
-                <tr>
-                    <th style={leftFont}>China Merchants Securities International Company Limited(招商證券)</th>
-                </tr>
-                <tr>
-                    <td style={leftFont}>Full Stack Developer, Fintech Intern </td>
-                    <td style={rightFont}>Jan 2024-Present</td>
-                </tr>
-                <tr>
-                <td style={leftFont}>-	Building on frontend investment component by using react.js</td>
-                </tr>
-                <tr>
-                <td style={leftFont}>-	Utilized SQL server to manage stock price</td>
-                </tr>
-                <tr>
-                <td style={leftFont}>-	Utilized .Net and C# to handle the connection of frontend and backend</td>
-                </tr>
-                
-            </tbody>
-        </table>
-        <br />
-        <table style={tableStyle}>
-            <tbody>
-                <tr>
-                    <th style={leftFont}>Freelance</th>
-                </tr>
-                <tr>
-                    <td style={leftFont}>Part Time Software engineer </td>
-                    <td style={rightFont}>Oct 2023-Present</td>
-                </tr>
-                <tr>
-                <td style={leftFont}>-	build up websites for two engineering companies by using react.js</td>
-                </tr>
-                <tr>
-                <td style={leftFont}>-	Communite with the employers of the companies and disscuss about the components of the pages</td>
-                </tr>
-                
-            </tbody>
-        </table>
+        <div style={{color:"#ffffff"}}>
+            <p style={{...middleFont,fontSize:"1.5rem",color:"#ffffff"}} className="font-size:1.5rem">Michael's Resume </p>
+            <br />
+            <h3 style={middleFont}>EDUCATION</h3>
+        
+            <table style={tableStyle}>
+                <tbody>
+                    <tr>
+                        <td style={leftFont}>B.Sc of Computer Science</td>
+                        <td style={rightFont}>2021-present</td>
+                    </tr>
+                    <tr style={leftFont}>CUHK</tr>
+                    <tr>
+                        <td style={leftFont}>Cheung Sha Wan Catholic Secondary School</td>
+                        <td style={rightFont}>2014-2020</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br />
+            <h3 style={middleFont}>Working Experience</h3>
+            <table style={tableStyle}>
+                <tbody>
+                    <tr>
+                        <th style={leftFont}>China Merchants Securities International Company Limited(招商證券)</th>
+                    </tr>
+                    <tr>
+                        <td style={leftFont}>Full Stack Developer, Fintech Intern </td>
+                        <td style={rightFont}>Jan 2024-Present</td>
+                    </tr>
+                    <tr>
+                    <td style={leftFont}>-	Building on frontend investment component by using react.js</td>
+                    </tr>
+                    <tr>
+                    <td style={leftFont}>-	Utilized SQL server to manage stock price</td>
+                    </tr>
+                    <tr>
+                    <td style={leftFont}>-	Utilized .Net and C# to handle the connection of frontend and backend</td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+            <br />
+            <table style={tableStyle}>
+                <tbody>
+                    <tr>
+                        <th style={leftFont}>Freelance</th>
+                    </tr>
+                    <tr>
+                        <td style={leftFont}>Part Time Software engineer </td>
+                        <td style={rightFont}>Oct 2023-Present</td>
+                    </tr>
+                    <tr>
+                    <td style={leftFont}>-	build up websites for two engineering companies by using react.js</td>
+                    </tr>
+                    <tr>
+                    <td style={leftFont}>-	Communite with the employers of the companies and disscuss about the components of the pages</td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
         <br />
         <table style={tableStyle}>
         <tbody>
-            <tr>
+            <tr style={{color:"#ffffff"}}>
                 <th style={leftFont}>Fortune Information Technology Ltd </th>
             </tr>
             <tr>
-                <td style={leftFont}>Part Time Software Programmer </td>
+                <div style={{color:"#ffffff"}}>
+                    <td style={leftFont}>Part Time Software Programmer </td>
+                </div>
                 <td style={rightFont}>Oct 2023-Dec 2023</td>
             </tr>
-            <tr>
+            <tr style={{color:"#ffffff"}}>
             <td style={leftFont}>-	Completed backend tasks utilizing SQL</td>
             </tr>
-            <tr>
+            <tr style={{color:"#ffffff"}}>
             <td style={leftFont}>-	Completed Flamework tasks by using C# </td>
             </tr>
-            <tr>
+            <tr style={{color:"#ffffff"}}>
             <td style={leftFont}>-	Completed frontend tasks by using Vue.js.</td>
             </tr>
         </tbody>
@@ -123,20 +127,22 @@ export default function ResumePage(){
         <br />
         <table style={tableStyle}>
         <tbody>
-            <tr>
+            <tr style={{color:"#ffffff"}}>
                 <th style={leftFont}>Century Lab Innovation Ltd                                                  						 </th>
             </tr>
             <tr>
-                <td style={leftFont}>Software Engineer Intern </td>
+                <div style={{color:"#ffffff"}}>
+                    <td style={leftFont}>Software Engineer Intern </td>
+                </div>
                 <td style={{...rightFont,color:""}}>Jun 2023-Aug 2023</td>
             </tr>
-            <tr>
+            <tr style={{color:"#ffffff"}}>
             <td style={leftFont}>-	Developed frontend of three web projects using React.js.</td>
             </tr>
-            <tr>
+            <tr style={{color:"#ffffff"}}>
             <td style={leftFont}>-	Performed comprehensive testing using Cypress </td>
             </tr>
-            <tr>
+            <tr style={{color:"#ffffff"}}>
             <td style={leftFont}>-	Completed backend tasks utilizing Serverless Stack (sst)</td>
             </tr>
         </tbody>
@@ -144,18 +150,22 @@ export default function ResumePage(){
         <br />
         <table style={tableStyle}>
             <tbody>
-                <tr>
+                <tr style={{color:"#ffffff"}}>
                     <th style={leftFont}>
                     The Jockey Club Community Care    
                     </th>
                 </tr>
                 <tr>
-                <td style={leftFont}>STEM tutor </td>
+                    <div style={{color:"#ffffff"}}>
+                       <td style={leftFont}>STEM tutor </td>
+                    </div>
+                
                 <td style={rightFont}>Aug 2022-Sep 2022</td>
                 </tr>
                 <tr>
                     <td style={leftFont}>
-                        -	Taught secondary students C programming and 3D printing to create items for people in need.
+                        <a style={{color:"#ffffff"}}>-	Taught secondary students C programming </a>
+                         and 3D printing to create items for people in need.
                     </td>
                 </tr>
             </tbody>
