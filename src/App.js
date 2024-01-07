@@ -11,7 +11,18 @@ import ContactPage from "./page/ContactPage";
 function App() {
   return (
     
-    ReactDOM.render(
+    // ReactDOM.render(
+    //   <HashRouter>
+    //         <Routes basename="/app">
+    //             <Route path="/" element={<HomePage />} />
+    //             <Route path="/Resume" element={<ResumePage />} />
+    //             <Route path="/Project" element={<ProjectPage />} />
+    //             <Route path="/AboutMe" element={<AboutMe />} />
+    //             <Route path="/Contact" element={<ContactPage />} />
+    //         </Routes>
+    //   </HashRouter>,
+    //   document.getElementById('root')
+    // )
       <HashRouter>
             <Routes basename="/app">
                 <Route path="/" element={<HomePage />} />
@@ -20,10 +31,8 @@ function App() {
                 <Route path="/AboutMe" element={<AboutMe />} />
                 <Route path="/Contact" element={<ContactPage />} />
             </Routes>
-      </HashRouter>,
-      document.getElementById('root')
-    )
-  )
+      </HashRouter>
+    );
 }
 
 export default App;
