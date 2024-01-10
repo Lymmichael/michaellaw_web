@@ -52,18 +52,19 @@ export default function ProjectPage(){
                                 <p> I mainly handled frontend part and all the testing part of the project.</p>
                         <br />
                             </tr>
+            
+            </div>
                             <tr>
-                                    <h2 style={{color:"#f9532d"}}>AVT DESIGSN internal accounting website: </h2>
-                                    <img src={AVT}
-                                        style={{
-                                            width: '70vw', // 50% of the viewport width
+                                <h2 style={{color:"#f9532d"}}>AVT DESIGSN internal accounting website: </h2>
+                                <img src={AVT}
+                                    style={{
+                                        width: '70vw', // 50% of the viewport width
                                             height: '70vh', // 25% of the viewport height
-                                        }}>
-                                        </img>
-                                        <p> Utilized .NET C#, Vue.js, and SQL Server to contribute to the development of the internal accounting website at AVT DESIGNS by implementing new features and resolving website issues.</p>
+                                    }}>
+                                    </img>
+                                    <p> Utilized .NET C#, Vue.js, and SQL Server to contribute to the development of the internal accounting website at AVT DESIGNS by implementing new features and resolving website issues.</p>
                         <br />
                             </tr>
-                </div>
                 <tr>
                     <h2 style={{color:"#f9532d"}}>Ecommerce-Analytics Website:</h2>
                     <p>Using Python to build a website for allocating the cheapest and the most accurate product in HKTV Mall by Web Scrapping.</p>
